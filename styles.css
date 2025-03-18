@@ -1,3 +1,26 @@
+night {
+  color: #0D160B;
+}
 
+purple {
+  color: #785589;
+}
+
+pink {
+  color: #977390;
+}
+
+rose {
+  color: #AC7B7D;
+}
+
+rosybrown {
+  color: #BB8A89;
+}
+
+body {
+  background-color: #0D160B;
+  color: #AC7B7D;
+}
 
 /*# sourceMappingURL=styles.css.map */
