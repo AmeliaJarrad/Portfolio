@@ -6,8 +6,8 @@
 @use './blocks/colors';
 
 body {
-    background-color: #0D160B;
-    color:#AC7B7D;
+    background-color: #1A1619 ;
+    color: #B35648;
     display:flex;
-    
+    flex-direction: column;
 }
