@@ -1,12 +1,27 @@
 .navbar {
+  box-sizing: border-box;
+  padding-left: 50px;
+  padding: 20px 10px 20px 10px;
+  border: 3px inset whitesmoke;
   display: flex;
-  background-color: #83BA81;
-  color: #1A1619;
+  color: #404040;
+  justify-content: space-evenly;
+  flex-direction: row;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 body {
-  background-color: #1A1619;
-  color: #B35648;
+  background-image: url(misty_tall.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  color: black;
   display: flex;
   flex-direction: column;
 }

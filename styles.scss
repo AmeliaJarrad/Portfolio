@@ -5,9 +5,20 @@
 @use './blocks/tech';
 @use './blocks/colors';
 
+
+
+* {
+    box-sizing: border-box;
+}
+
 body {
-    background-color: #1A1619 ;
-    color: #B35648;
+    background-image:url(misty_tall.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+    color: black;
     display:flex;
     flex-direction: column;
 }
