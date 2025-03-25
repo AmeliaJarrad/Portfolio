@@ -1,0 +1,9 @@
+.landing {
+    box-sizing: border-box;
+    border: 3px solid red;
+    & __heading {
+        color: red
+    }
+
+
+}
